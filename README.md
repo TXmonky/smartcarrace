@@ -1,0 +1,1 @@
+This data-driven smart car project achieved low-latency, real-time inference and precise environmental perception on the Jetson Orin Nano platform by deeply integrating deep learning with multi-sensor information. 
