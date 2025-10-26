@@ -1,0 +1,16 @@
+2024-03-20 17:25:06,543-log_test.py-[line:109]-INFO-[log]:-info message
+2024-03-20 17:25:06,544-log_test.py-[line:110]-WARNING-[log]:-warning message
+2024-03-20 17:25:06,544-log_test.py-[line:111]-ERROR-[log]:-error message
+2024-03-20 17:25:06,544-log_test.py-[line:112]-CRITICAL-[log]:-critical message
+2024-03-20 17:34:22,457-log_test.py-[line:100]-INFO-[log]:-info message
+2024-03-20 17:34:22,458-log_test.py-[line:101]-WARNING-[log]:-warning message
+2024-03-20 17:34:22,458-log_test.py-[line:102]-ERROR-[log]:-error message
+2024-03-20 17:34:22,458-log_test.py-[line:103]-CRITICAL-[log]:-critical message
+2024-03-20 17:36:53,218-log_test.py-[line:84]-INFO-[log]:-info message
+2024-03-20 17:36:53,218-log_test.py-[line:85]-WARNING-[log]:-warning message
+2024-03-20 17:36:53,218-log_test.py-[line:86]-ERROR-[log]:-error message
+2024-03-20 17:36:53,218-log_test.py-[line:87]-CRITICAL-[log]:-critical message
+2024-03-20 17:37:04,423-log_test.py-[line:77]-INFO-[log]:-info message
+2024-03-20 17:37:04,423-log_test.py-[line:78]-WARNING-[log]:-warning message
+2024-03-20 17:37:04,423-log_test.py-[line:79]-ERROR-[log]:-error message
+2024-03-20 17:37:04,424-log_test.py-[line:80]-CRITICAL-[log]:-critical message

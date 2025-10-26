@@ -1,0 +1,35 @@
+2025-06-05 15:20:35,923-controller2.py-[line:279]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2025-06-05 16:01:45,356-controller2.py-[line:279]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2025-06-05 16:28:12,148-controller2.py-[line:279]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2025-06-05 17:07:28,137-controller2.py-[line:279]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2025-06-05 17:08:13,619-controller2.py-[line:279]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2025-06-05 17:10:21,240-controller2.py-[line:313]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2025-06-05 17:10:21,464-controller2.py-[line:313]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2025-06-05 17:10:22,326-vehicle_base2.py-[line:523]-INFO-[log]:mecanum init
+2025-06-05 17:10:22,538-car_wrap.py-[line:147]-INFO-[log]:my car init ok 0.21178388595581055
+2025-06-05 17:10:27,261-infer_front.py-[line:111]-INFO-[log]:lane连接服务器...
+2025-06-05 17:10:27,355-infer_front.py-[line:150]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2025-06-05 17:11:46,604-controller2.py-[line:313]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2025-06-05 17:11:46,826-controller2.py-[line:313]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2025-06-05 17:11:48,185-vehicle_base2.py-[line:523]-INFO-[log]:mecanum init
+2025-06-05 17:11:48,405-car_wrap.py-[line:147]-INFO-[log]:my car init ok 0.22014617919921875
+2025-06-05 17:11:52,585-infer_front.py-[line:111]-INFO-[log]:lane连接服务器...
+2025-06-05 17:11:52,759-infer_front.py-[line:133]-INFO-[log]:lane连接服务器成功
+2025-06-05 17:11:52,760-infer_front.py-[line:111]-INFO-[log]:front连接服务器...
+2025-06-05 17:11:52,848-infer_front.py-[line:133]-INFO-[log]:front连接服务器成功
+2025-06-05 17:11:52,849-infer_front.py-[line:111]-INFO-[log]:task连接服务器...
+2025-06-05 17:11:52,935-infer_front.py-[line:133]-INFO-[log]:task连接服务器成功
+2025-06-05 17:11:52,936-infer_front.py-[line:111]-INFO-[log]:mot连接服务器...
+2025-06-05 17:11:53,029-infer_front.py-[line:133]-INFO-[log]:mot连接服务器成功
+2025-06-05 17:11:53,030-infer_front.py-[line:111]-INFO-[log]:humattr连接服务器...
+2025-06-05 17:11:53,132-infer_front.py-[line:133]-INFO-[log]:humattr连接服务器成功
+2025-06-05 17:11:53,133-infer_front.py-[line:111]-INFO-[log]:ocr连接服务器...
+2025-06-05 17:11:53,258-infer_front.py-[line:133]-INFO-[log]:ocr连接服务器成功
+2025-06-05 17:11:53,258-infer_front.py-[line:111]-INFO-[log]:redstop连接服务器...
+2025-06-05 17:11:53,348-infer_front.py-[line:133]-INFO-[log]:redstop连接服务器成功
+2025-06-05 17:11:55,723-car_wrap.py-[line:955]-INFO-[log]:10
+2025-06-05 17:11:55,724-car_wrap.py-[line:958]-INFO-[log]:['grap_block_func', 'release_block_func', 'get_ball_func', 'elevation_pole_func', 'get_high_ball_func', 'pull_ball_func', 'hanoi_tower_func', 'camp_fun_old', 'find_criminal', 'go_start', 'all_task', 'lane_test', 'reset', 'debug']
+2025-06-05 17:13:02,663-controller2.py-[line:313]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2025-06-05 17:13:02,884-controller2.py-[line:313]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2025-06-05 17:13:02,940-vehicle_base2.py-[line:523]-INFO-[log]:mecanum init
+2025-06-05 19:29:13,578-controller2.py-[line:279]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
